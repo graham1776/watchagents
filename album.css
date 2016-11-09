@@ -29,17 +29,19 @@ body {
 
 .social a {
   font-weight: 500;
-  color: #eceeef;
+  color: #818a91;
 }
 .social a:hover {
   color: #fff;
 }
 
 .jumbotron {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  /*padding-top: 6rem;*/
+  /*padding-bottom: 6rem;*/
   margin-bottom: 0;
   background-color: #fff;
+  /*background: url("screenshot-1025vintage.com-2016-11-08-13-44-15.png");*/
+  /*background-repeat:no-repeat;*/
 }
 
 .jumbotron p:last-child {
